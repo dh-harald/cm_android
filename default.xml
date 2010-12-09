@@ -12,7 +12,7 @@
 
   <project path="bootable/bootloader/legacy" name="platform/bootable/bootloader/legacy" revision="4acde5dcafa1b7c7fa241081c9b49f0bbf436c23"/>
   <project path="bootable/diskinstaller" name="platform/bootable/diskinstaller" revision="cd65e152740c709ab3edc0f4859e996ba27e8ca1"/>
-  <project path="bootable/recovery" name="Xmister/android_bootable_recovery" remote="github" revision="30fe47d2479e92a447a7a87474ab9bf898d25234"/>
+  <project path="bootable/recovery" name="Xmister/android_bootable_recovery" remote="github"/>
 
   <project path="dalvik" name="CyanogenMod/android_dalvik" remote="github" revision="51ab0adb191273f9e28441724f1384c31779c125"/>
   <project path="development" name="CyanogenMod/android_development" remote="github" revision="af323d7c387943b681908bc40ed0f8a01c94a2f3"/>
@@ -142,7 +142,7 @@
   <project path="frameworks/base" name="dh-harald/cm_android_frameworks_base" remote="github"/>
   <project path="frameworks/ex" name="platform/frameworks/ex" revision="823b6f3516076b92f78c3fc27037d24bb514e653"/>
   <project path="frameworks/opt/emoji" name="platform/frameworks/opt/emoji" revision="49f8fa5f480ae382f9087fde333b50072b214ad2"/>
-  <project path="frameworks/policies/base" name="CyanogenMod/android_frameworks_policies_base" remote="github" revision="c34d18c5846d25613cdae12ff717b01433953cf7"/>
+  <project path="frameworks/policies/base" name="dh-harald/android_frameworks_policies_base" remote="github"/>
 
   <project path="hardware/alsa_sound" name="dh-harald/android_hardware_alsa_sound" remote="github"/>
   <project path="hardware/broadcom/wlan" name="platform/hardware/broadcom/wlan" revision="6b8a1c6010b8cff0fc4081d3eba0778c9e8a86b2"/>
