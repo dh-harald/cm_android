@@ -146,7 +146,7 @@
   <project path="frameworks/base" name="dh-harald/cm_android_frameworks_base" remote="github" />
   <project path="frameworks/ex" name="platform/frameworks/ex" />
   <project path="frameworks/opt/emoji" name="platform/frameworks/opt/emoji" />
-  <project path="frameworks/policies/base" name="dh-harald/android_frameworks_policies_base" remote="github" />
+  <project path="frameworks/policies/base" name="dh-harald/cm_android_frameworks_policies_base" remote="github" />
 
   <project path="hardware/alsa_sound" name="dh-harald/android_hardware_alsa_sound" remote="github" />
   <project path="hardware/broadcom/wlan" name="platform/hardware/broadcom/wlan" />
