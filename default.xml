@@ -41,7 +41,7 @@
   <project path="device/motorola/sholes" name="CyanogenMod/android_device_motorola_sholes" remote="github" />
   <project path="device/sample" name="device/sample" />
   <project path="device/samsung/crespo" name="CyanogenMod/android_device_samsung_crespo" remote="github" />
-  <project path="device/samsung/spica" name="dh-harald/cm_android_device_samsung_crespo" remote="github" />
+  <project path="device/samsung/spica" name="dh-harald/cm_android_device_samsung_spica" remote="github" />
   <project path="external/apache-http" name="platform/external/apache-http" />
   <project path="external/astl" name="platform/external/astl" />
   <project path="external/bash" name="CyanogenMod/android_external_bash" remote="github" />
