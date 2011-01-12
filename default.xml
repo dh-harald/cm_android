@@ -152,7 +152,7 @@
   <project path="packages/apps/AccountsAndSyncSettings" name="platform/packages/apps/AccountsAndSyncSettings" />
   <project path="packages/apps/ADWLauncher" name="CyanogenMod/android_packages_apps_ADWLauncher" remote="github" />
   <project path="packages/apps/AndroidTerm" name="CyanogenMod/android_packages_apps_AndroidTerm" remote="github" revision="master" />
-  <project path="packages/apps/Bluetooth" name="dh-harald/cm_android_system_bluetooth" remote="github" />
+  <project path="packages/apps/Bluetooth" name="CyanogenMod/android_packages_apps_Bluetooth" remote="github" />
   <project path="packages/apps/Browser" name="CyanogenMod/android_packages_apps_Browser" remote="github" />
   <project path="packages/apps/Calculator" name="platform/packages/apps/Calculator" />
   <project path="packages/apps/Calendar" name="platform/packages/apps/Calendar" />
@@ -205,7 +205,7 @@
   <project path="packages/wallpapers/MusicVisualization" name="platform/packages/wallpapers/MusicVisualization" />
   <project path="prebuilt" name="platform/prebuilt" />
   <project path="sdk" name="platform/sdk" revision="tools_r7" />
-  <project path="system/bluetooth" name="platform/system/bluetooth" />
+  <project path="system/bluetooth" name="dh-harald/cm_android_system_bluetooth" />
   <project path="system/core" name="CyanogenMod/android_system_core" remote="github" />
   <project path="system/extras" name="CyanogenMod/android_system_extras" remote="github" />
   <project path="system/media" name="platform/system/media" />
