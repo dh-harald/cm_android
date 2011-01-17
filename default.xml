@@ -221,7 +221,7 @@
   <project path="system/bluetooth" name="dh-harald/cm_android_system_bluetooth" remote="github"/>
   <project path="system/core" name="CyanogenMod/android_system_core" remote="github" revision="3519f031cb654b711cff28b624d6f85afc2fd455"/>
   <project path="system/extras" name="CyanogenMod/android_system_extras" remote="github" revision="47e7c4c7a8ec7a8fbd7c9241bf958576c5b65525"/>
-  <project path="system/netd" name="dh-harald/cm_android_system_netd" remote="github" "/>
+  <project path="system/netd" name="dh-harald/cm_android_system_netd" remote="github"/>
   <project path="system/vold" name="dh-harald/cm_android_system_vold" remote="github"/>
   <project path="system/wlan/ti" name="platform/system/wlan/ti" revision="3baca6cc248e0d9a852c25b214c92bc856ae03ea"/>
 
