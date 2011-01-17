@@ -118,7 +118,7 @@
   <project path="external/quake" name="platform/external/quake" revision="483b595da7ef9bffa610d1992d565a26fd6b16ed"/>
   <project path="external/rsync" name="dylex/android_external_rsync" remote="github" revision="743f916624771b0880a92398dc7ccc6f0bf551b2"/>
   <project path="external/safe-iop" name="platform/external/safe-iop" revision="084f46f834a5327a301984a0d72404551cd2cb6f"/>
-  <project path="external/skia" name="CyanogenMod/android_external_skia" remote="github" revision="b756e78bab66e78f07c05a7223a4a1288a047a30"/>
+  <project path="external/skia" name="dh-harald/cm_android_external_skia" remote="github"/>
   <project path="external/sonivox" name="platform/external/sonivox" revision="4fe08534dea6b494dd6bbdfa5be605bd4f0e1ac7"/>
   <project path="external/speex" name="platform/external/speex" revision="9965152ae52eb4dfdafbdcd8b55e39d1a23052e0"/>
   <project path="external/sqlite" name="platform/external/sqlite" revision="904607b881c63fad87fd72a78602d620792b58dc"/>
