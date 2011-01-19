@@ -114,7 +114,7 @@
   <project path="external/rsync" name="CyanogenMod/android_external_rsync" remote="github" revision="master" />
   <project path="external/quake" name="platform/external/quake" />
   <project path="external/safe-iop" name="platform/external/safe-iop" />
-  <project path="external/skia" name="CyanogenMod/android_external_skia" remote="github" />
+  <project path="external/skia" name="dh-harald/cm_android_external_skia" remote="github" />
   <project path="external/sonivox" name="platform/external/sonivox" />
   <project path="external/speex" name="platform/external/speex" />
   <project path="external/sqlite" name="platform/external/sqlite" />
@@ -211,7 +211,7 @@
   <project path="system/core" name="CyanogenMod/android_system_core" remote="github" />
   <project path="system/extras" name="CyanogenMod/android_system_extras" remote="github" />
   <project path="system/media" name="platform/system/media" />
-  <project path="system/netd" name="CyanogenMod/android_system_netd" remote="github" />
+  <project path="system/netd" name="dh-harald/cm_android_system_netd" remote="github" />
   <project path="system/vold" name="dh-harald/cm_android_system_vold" remote="github" />
   <project path="system/wlan/ti" name="CyanogenMod/android_system_wlan_ti" remote="github" />
 
