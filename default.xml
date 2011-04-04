@@ -27,7 +27,10 @@
   <project path="device/advent/vega" name="CyanogenMod/android_device_advent_vega" remote="github" />
   <project path="device/bn/encore" name="CyanogenMod/android_device_bn_encore" remote="github" />
   <project path="device/commtiva/z71" name="CyanogenMod/android_device_commtiva_z71" remote="github" />
+  <project path="device/dell/streak7" name="CyanogenMod/android_device_dell_streak7" remote="github" />
+  <project path="device/elocity/a7" name="CyanogenMod/android_device_elocity_a7" remote="github" />
   <project path="device/geeksphone/one" name="CyanogenMod/android_device_geeksphone_one" remote="github" />
+  <project path="device/geeksphone/zero" name="CyanogenMod/android_device_geeksphone_zero" remote="github" />
   <project path="device/huawei/ascend" name="CyanogenMod/android_device_huawei_ascend" remote="github" />
   <project path="device/htc/common" name="CyanogenMod/android_device_htc_common" remote="github" />
   <project path="device/htc/ace" name="CyanogenMod/android_device_htc_ace" remote="github" />
@@ -35,6 +38,7 @@
   <project path="device/htc/bravoc" name="CyanogenMod/android_device_htc_bravoc" remote="github" />
   <project path="device/htc/buzz" name="CyanogenMod/android_device_htc_buzz" remote="github" />
   <project path="device/htc/click" name="CyanogenMod/android_device_htc_click" remote="github" />
+  <project path="device/htc/desirec" name="CyanogenMod/android_device_htc_desirec" remote="github" />
   <project path="device/htc/dream_sapphire" name="CyanogenMod/android_device_htc_dream_sapphire" remote="github" />
   <project path="device/htc/espresso" name="CyanogenMod/android_device_htc_espresso" remote="github" />
   <project path="device/htc/inc" name="CyanogenMod/android_device_htc_inc" remote="github" />
@@ -44,6 +48,7 @@
   <project path="device/htc/legend" name="CyanogenMod/android_device_htc_legend" remote="github" />
   <project path="device/htc/leo" name="CyanogenMod/android_device_htc_leo" remote="github" />
   <project path="device/htc/liberty" name="CyanogenMod/android_device_htc_liberty" remote="github" />
+  <project path="device/htc/mecha" name="CyanogenMod/android_device_htc_mecha" remote="github" />
   <project path="device/htc/passion" name="CyanogenMod/android_device_htc_passion" remote="github" />
   <project path="device/htc/passion-common" name="CyanogenMod/android_device_htc_passion-common" remote="github" />
   <project path="device/htc/speedy" name="CyanogenMod/android_device_htc_speedy" remote="github" />
@@ -54,6 +59,7 @@
   <project path="device/nvidia/harmony" name="CyanogenMod/android_device_harmony" remote="github" />
   <project path="device/sample" name="device/sample" />
   <project path="device/samsung/crespo" name="CyanogenMod/android_device_samsung_crespo" remote="github" />
+  <project path="device/samsung/epic4g" name="CyanogenMod/android_device_samsung_epic4g" remote="github" />
   <project path="device/samsung/fascinate" name="CyanogenMod/android_device_samsung_fascinate" remote="github" />
   <project path="device/samsung/spica" name="dh-harald/cm_android_device_samsung_spica" remote="github" />
   <project path="device/samsung/vzwtab" name="CyanogenMod/android_device_samsung_vzwtab" remote="github" />
@@ -172,6 +178,7 @@
   <project path="libcore" name="platform/libcore" />
   <project path="ndk" name="platform/ndk" />
   <project path="packages/apps/AccountsAndSyncSettings" name="platform/packages/apps/AccountsAndSyncSettings" />
+  <project path="packages/apps/AicBootFix" name="CyanogenMod/android_packages_apps_AicBootFix" remote="github" revision="master"/>
   <project path="packages/apps/ADWLauncher" name="CyanogenMod/android_packages_apps_ADWLauncher" remote="github" />
   <project path="packages/apps/AndroidTerm" name="CyanogenMod/android_packages_apps_AndroidTerm" remote="github" />
   <project path="packages/apps/Bluetooth" name="platform/packages/apps/Bluetooth"/>
