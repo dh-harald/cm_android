@@ -59,10 +59,11 @@
   <project path="device/htc/supersonic" name="CyanogenMod/android_device_htc_supersonic" remote="github" />
   <project path="device/htc/vision" name="CyanogenMod/android_device_htc_vision" remote="github" />
   <project path="device/htc/vivo" name="CyanogenMod/android_device_htc_vivo" remote="github" />
-  <project path="device/lge/vm670" name="CyanogenMod/android_device_lge_vm670" remote="github" />
+  <project path="device/htc/vivow" name="CyanogenMod/android_device_htc_vivow" remote="github" />
   <project path="device/lge/p990" name="CyanogenMod/android_device_lge_p990" remote="github" />
   <project path="device/lge/p999" name="CyanogenMod/android_device_lge_p999" remote="github" />
   <project path="device/lge/star-common" name="CyanogenMod/android_device_lge_star-common" remote="github" />
+  <project path="device/lge/thunderc" name="CyanogenMod/android_device_lge_thunderc" remote="github" />
   <project path="device/lge/thunderg" name="CyanogenMod/android_device_lge_thunderg" remote="github" />
   <project path="device/malata/smb-common" name="CyanogenMod/android_device_malata_smb-common" remote="github" />
   <project path="device/malata/smb_a1002" name="CyanogenMod/android_device_malata_smb_a1002" remote="github" />
@@ -183,6 +184,7 @@
   <project path="external/v8" name="CyanogenMod/android_external_v8" remote="github" />
   <project path="external/vim" name="CyanogenMod/android_external_vim" remote="github" revision="master" />
   <project path="external/webkit" name="CyanogenMod/android_external_webkit" remote="github" />
+  <project path="external/webp" name="platform/external/webp" revision="master" />
   <project path="external/wireless-tools" name="CyanogenMod/android_external_wireless-tools" remote="github" />
   <project path="external/wpa_supplicant" name="dh-harald/cm_android_external_wpa_supplicant" remote="github" />
   <project path="external/wpa_supplicant_6" name="CyanogenMod/android_external_wpa_supplicant_6" remote="github" />
@@ -216,6 +218,7 @@
   <project path="packages/apps/Camera" name="CyanogenMod/android_packages_apps_Camera" remote="github" />
   <project path="packages/apps/CertInstaller" name="platform/packages/apps/CertInstaller" />
   <project path="packages/apps/CMParts" name="CyanogenMod/android_packages_apps_CMParts" remote="github" />
+  <project path="packages/apps/CMScreenshot" name="CyanogenMod/android_packages_apps_CMScreenshot" remote="github" />
   <project path="packages/apps/CMStats" name="CyanogenMod/android_packages_apps_CMStats" remote="github" />
   <project path="packages/apps/CMUpdateNotify" name="CyanogenMod/android_packages_apps_CMUpdateNotify" remote="github" />
   <project path="packages/apps/CMWallpapers" name="CyanogenMod/android_packages_apps_CMWallpapers" remote="github" />
