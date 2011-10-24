@@ -100,6 +100,7 @@
   <project path="device/samsung/p7100" name="CyanogenMod/android_device_samsung_p7100" remote="github" />
   <project path="device/samsung/showcasemtd" name="CyanogenMod/android_device_samsung_showcasemtd" remote="github" />
   <project path="device/samsung/sidekick4g" name="CyanogenMod/android_device_samsung_sidekick4g" remote="github" />
+  <project path="device/samsung/spica" name="dh-harald/cm_android_device_samsung_spica" remote="github" />
   <project path="device/samsung/tass" name="CyanogenMod/android_device_samsung_tass" remote="github" />
   <project path="device/samsung/vibrantmtd" name="CyanogenMod/android_device_samsung_vibrantmtd" remote="github" />
   <project path="device/samsung/vzwtab" name="CyanogenMod/android_device_samsung_vzwtab" remote="github" />
